@@ -1,0 +1,25 @@
+{
+  "name": "day-trader-skill",
+  "owner": {
+    "name": "Jakeschincariol"
+  },
+  "metadata": {
+    "description": "Day-trading planning, risk, and journaling skills for Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "day-trader-skill",
+      "source": "./",
+      "description": "Pre-market planning, setup checklists, deterministic position sizing, and trade-journal reviews for intraday traders. Analysis only: never places orders.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Jakeschincariol"
+      },
+      "repository": "https://github.com/Jakeschincariol/day-trader-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["day-trading", "risk-management", "position-sizing", "trade-journal", "agent-skills"]
+    }
+  ]
+}

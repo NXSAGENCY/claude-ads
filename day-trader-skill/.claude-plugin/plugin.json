@@ -1,0 +1,12 @@
+{
+  "name": "day-trader-skill",
+  "version": "0.1.0",
+  "description": "Pre-market planning, setup checklists, deterministic position sizing, and trade-journal reviews for intraday traders. Analysis only: never places orders.",
+  "author": {
+    "name": "Jakeschincariol",
+    "url": "https://github.com/Jakeschincariol"
+  },
+  "repository": "https://github.com/Jakeschincariol/day-trader-skill",
+  "license": "MIT",
+  "keywords": ["day-trading", "risk-management", "position-sizing", "trade-journal", "agent-skills"]
+}
